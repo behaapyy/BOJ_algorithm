@@ -1,1 +1,1 @@
-# study_with_paper
+# BOJ_algorithm
